@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speech-to-Text</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Speech-to-Text Recognition</h1>
+        <button id="toggleBtn">Start Listening</button>
+        <div id="status" class="status">Ready</div>
+        <div id="transcription" class="transcription-area" contenteditable="false" placeholder="Your transcribed text will appear here..."></div>
+        <div class="action-buttons">
+            <button id="copyBtn" class="action-btn" disabled>Copy Text</button>
+            <button id="clearBtn" class="action-btn" disabled>Clear Text</button>
+        </div>
+        <p id="error" class="error-message"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
