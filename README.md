@@ -95,3 +95,5 @@ Real-time Recognition: With the improvement in both software and hardware, real-
 Conclusion
 A Speech Recognition System is a multidisciplinary technology that integrates speech science, signal engineering, and language processing to provide smooth and smart human-machine interaction. Future systems, with their continued growth in AI, are likely to be more accurate, multilingual, and context-dependent, transforming the way we interact with technology across various sectors.
 
+![Image](https://github.com/user-attachments/assets/5079c6a3-2d28-4e68-9864-c1bb8614e59b)
+
